@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there 👋<br>I’m Nitesh!<br>🧑‍💻 I’m a Angular, C# and SQL Database developer working at Softcon.<br>🔭 I’m currently working on Software Developer<br>🌱 I’m currently learning Angular, C# WebApi & SQL Database<br>💬 Ask me about Developing Software
+Hi there 👋 I’m Nitesh!
+
+🧑‍💻 Software Engineer skilled in Angular, C#, and SQL/Oracle databases, currently working at Sia Partners.
+🔭 Working on ERP solutions, cloud-native apps, and AI projects.
+🌱 Currently learning and exploring advanced Angular, C# Web API, SQL, and AWS technologies.
+💬 Ask me about software development, ERP systems, and cloud solutions.
 
 
 ## 🌐 Socials:
